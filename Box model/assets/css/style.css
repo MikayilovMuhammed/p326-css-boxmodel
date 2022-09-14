@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    height: 2000px;
+}
+
+
+.test {
+    background-color: red;
+    /* padding: 40px; */
+
+    /* padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px; */
+    /* padding: 40px 30px 20px 10px; */
+
+    /* border: 20px solid green; */
+    /* border: 20px dotted green; */
+    /* border: 20px dashed green; */
+    /* border: 20px double green; */
+    /* border: 20px groove green; */
+    /* border: 20px ridge green; */
+    /* border-top-color: yellow; */
+    /* border-top-width: 40px; */
+    /* border-top: 20px solid green;
+    border-bottom: 20px solid green; */
+
+    width: 200px;
+    height: 100px;
+    /* overflow: auto; */
+    overflow: hidden;
+
+    /* display: inline-block; */
+
+}
+
+.test-2 {
+    background-color: aqua;
+}
+
+.test-3 {
+    background-color: black;
+}
+
+
+ul li {
+    display: inline-block;
+}
+
+
+.tst {
+    position: relative;
+    top: 10px;
+    left: 40%;
+    padding: 40px;
+    background-color: black;
+    width: 300px;
+}
+
+.test-2 {
+    /* position: absolute; */
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+.tst-abs {
+    width: 100px;
+    height: 50px;
+    background-color: blueviolet;
+
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+/* .test p {
+    width: 400px;
+} */
+
+/* .test-2 { */
+    /* margin: 10px; */
+    /* margin: 20px 10px; */
+    /* margin: 20px;
+    margin-bottom: 30px;
+    background-color: aqua;
+    /* overflow: hidden; */
+/* } */
+
+/* .test-3 {
+    margin-top: 10px;
+    background-color: yellow;
+}  */
+
